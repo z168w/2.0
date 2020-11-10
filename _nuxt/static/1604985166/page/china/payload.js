@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/page/china", (function(a){return {data:[{content:"\u003Cp\u003E404 NOT FOUND!\u003C\u002Fp\u003E",post:{keyword:a,description:a}}],fetch:[],mutations:void 0}}("")));
